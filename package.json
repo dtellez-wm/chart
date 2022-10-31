@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "c3": "^0.7.20"
-  }
+  },
+  "name": "chart",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtellez-wm/chart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtellez-wm/chart/issues"
+  },
+  "homepage": "https://github.com/dtellez-wm/chart#readme",
+  "description": ""
 }

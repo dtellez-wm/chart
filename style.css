@@ -1,3 +1,6 @@
 body {
-    background-color: grey;
+    background-color: gray;
+}
+#chart {
+    background-color: white;
 }
